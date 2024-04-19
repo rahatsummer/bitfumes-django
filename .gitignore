@@ -1,0 +1,8 @@
+# Ignore Django settings file
+/core/settings.py
+
+# Ignore database file
+db.sqlite3
+
+# Ignore virtual environment
+/venv/
